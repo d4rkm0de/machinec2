@@ -8,6 +8,8 @@
 |/     \| |/     \| (_______/ |/     \|  (_)   |/      \| (_______/
 
 
+MΛCHIПE IS FOR INTERNAL TESTING USE ONLY ON YOUR OWN SYSTEMS. I AM NOT LIABLE IF YOU ARE DUMB AND USE IT FOR BAD.
+
 This file will outline the web server requirements and how to install the MΛCHIПE admin panel.
 
 I. REQUIREMENTS
